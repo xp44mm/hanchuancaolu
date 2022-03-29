@@ -10,13 +10,12 @@
 
 ## 諸子類
 
-[老子](https://github.com/xp44mm/hanchuancaolu/tree/master/)
-[莊子](https://github.com/xp44mm/hanchuancaolu/tree/master/)
-[荀子](https://github.com/xp44mm/hanchuancaolu/tree/master/)
-[墨子](https://github.com/xp44mm/hanchuancaolu/tree/master/)
-[孫子](https://github.com/xp44mm/hanchuancaolu/tree/master/)
-
-呻吟语
+[老子](https://github.com/xp44mm/hanchuancaolu/tree/master/老子)
+[莊子](https://github.com/xp44mm/hanchuancaolu/tree/master/莊子)
+[荀子](https://github.com/xp44mm/hanchuancaolu/tree/master/荀子)
+[墨子](https://github.com/xp44mm/hanchuancaolu/tree/master/墨子)
+[孫子](https://github.com/xp44mm/hanchuancaolu/tree/master/孫子)
+[呻吟语](https://github.com/xp44mm/hanchuancaolu/tree/master/呻吟语)
 
 ## 古典小說
 
